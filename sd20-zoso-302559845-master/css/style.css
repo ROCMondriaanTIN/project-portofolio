@@ -55,7 +55,7 @@ a{
 .aboutme{
     display: flex;
     justify-content: space-around;
-
+    background-color:white;
 }
 
 .img{
@@ -77,5 +77,9 @@ a{
     justify-content:space-evenly; 
     margin:auto;
     text-align:justify;  
+}
+.colour-change{
+    background-color: black;
+    color: white;
 }
 
